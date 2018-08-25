@@ -1,3 +1,6 @@
 *.dart linguist-language=dart
 *.yarml linguist-language=dart
 *.html linguist-language=dart
+*.gradle linguist-language=dart
+*.iml linguist-language=dart
+*.bat linguist-language=dart
