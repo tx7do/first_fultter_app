@@ -4,3 +4,4 @@
 *.gradle linguist-language=dart
 *.iml linguist-language=dart
 *.bat linguist-language=dart
+*.xml linguist-language=dart
